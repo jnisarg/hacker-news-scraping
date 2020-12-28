@@ -46,7 +46,7 @@ if __name__ == "__main__":
                 print(f"\t {page} page/s scraped...")
                 if page != num_pages:
                     print(f"\t\tApplying Crawl-Delay... of {crawl_delay}s")
-                    time.sleep(crawl_delay * 1000)  # This delay is requested by hacker news
+                    time.sleep(crawl_delay)  # This delay is requested by hacker news
             break
 
     hn = sort_links_by_points(hn)
