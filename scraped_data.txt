@@ -1,0 +1,284 @@
+Title: Just Wanted to Say Thanks
+Link: https://github.com/compumike/hairpin-proxy/issues/5
+Points: 1176 points
+
+Title: Dasung just released a 25 inch eInk monitor
+Link: https://www.reddit.com/r/eink/comments/kjvsoj/dasung_just_released_a_25_inch_eink_monitor/
+Points: 708 points
+
+Title: California Public Utilities Commission fired director who exposed missing $200M
+Link: https://www.propublica.org/article/she-noticed-200-million-missing-then-she-was-fired
+Points: 591 points
+
+Title: Photocatalyst splits water into H and O2 at quantum efficiency near 100%
+Link: https://fuelcellsworks.com/news/photocatalyst-that-can-split-water-into-hydrogen-and-oxygen-at-a-quantum-efficiency-close-to-100/
+Points: 555 points
+
+Title: Cosmopolitan Libc: build-once run-anywhere C library
+Link: https://justine.lol/cosmopolitan/index.html
+Points: 524 points
+
+Title: New Linux port for the Nintendo 64
+Link: https://lore.kernel.org/linux-mips/20201225190503.12353218812e1655f56f0bf8@gmx.com/T/#m0862c3484e0da7195dc8989421d30f01b3b1c63a
+Points: 520 points
+
+Title: Fun with IP address parsing
+Link: https://blog.dave.tf/post/ip-addr-parsing/
+Points: 494 points
+
+Title: 1937 film explains how a car differential works
+Link: https://www.roadandtrack.com/car-culture/classic-cars/a25833/1937-film-perfectly-explains-how-a-car-differential-works/
+Points: 489 points
+
+Title: Print this file, your printer will jam (2008)
+Link: https://nedbatchelder.com/blog/200811/print_this_file_your_printer_will_jam.html
+Points: 477 points
+
+Title: What If You Could Do It All Over?
+Link: https://www.newyorker.com/magazine/2020/12/21/what-if-you-could-do-it-all-over
+Points: 430 points
+
+Title: ATT services down due to bombing in Nashville
+Link: https://www.tennessean.com/story/news/local/2020/12/25/att-outage-internet-down-hours-after-nashville-explosion/4045278001/
+Points: 415 points
+
+Title: I reverse engineered Google Docs to play back any document's keystrokes (2014)
+Link: http://features.jsomers.net/how-i-reverse-engineered-google-docs/
+Points: 408 points
+
+Title: SaaS We Happily Pay For
+Link: https://francescodilorenzo.com/saas-we-pay-for
+Points: 406 points
+
+Title: A Complete Guide to LLVM for Programming Language Creators
+Link: https://mukulrathi.co.uk/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/
+Points: 400 points
+
+Title: Talking out loud to yourself is a technology for thinking
+Link: https://psyche.co/ideas/talking-out-loud-to-yourself-is-a-technology-for-thinking
+Points: 399 points
+
+Title: 2-Acre Vertical Farm Run by AI and Robots Out-Produces 720-Acre Flat Farm
+Link: https://www.intelligentliving.co/vertical-farm-out-produces-flat-farm/
+Points: 364 points
+
+Title: Chemicals called PFAS and PFOS are in the blood of virtually every person
+Link: https://www.theguardian.com/commentisfree/2020/dec/17/dark-waters-pfas-ticking-chemical-time-bomb-in-your-blood
+Points: 352 points
+
+Title: API pagination design
+Link: https://solovyov.net/blog/2020/api-pagination-design/
+Points: 343 points
+
+Title: How Complex Systems Fail (1998)
+Link: https://how.complexsystems.fail
+Points: 342 points
+
+Title: Archaeologists uncover ancient street food shop in Pompeii
+Link: https://www.reuters.com/article/italy-pompeii-idUSKBN2900D3
+Points: 324 points
+
+Title: Starship / Super Heavy
+Link: https://www.faa.gov/space/stakeholder_engagement/spacex_starship/starship_super_heavy/
+Points: 323 points
+
+Title: Does GPT-2 Know Your Phone Number?
+Link: https://bair.berkeley.edu/blog/2020/12/20/lmmem/
+Points: 309 points
+
+Title: Systems design explains the world: volume 1
+Link: https://apenwarr.ca/log/20201227
+Points: 298 points
+
+Title: The Fight for WorldBox
+Link: https://www.reddit.com/r/Worldbox/comments/jmplqw/the_fight_for_worldbox_or_how_a_game_you_worked/
+Points: 296 points
+
+Title: Upptime – GitHub-powered open-source uptime monitor and status page
+Link: https://upptime.js.org/
+Points: 286 points
+
+Title: Images of the the samples returned to earth from the asteroid Ryugu
+Link: http://www.hayabusa2.jaxa.jp/en/topics/20201225_samples/
+Points: 261 points
+
+Title: Father Reginald Foster has died
+Link: https://theoldie.co.uk/blog/the-popes-latin-teacher
+Points: 255 points
+
+Title: Average Rent in San Francisco Has Dropped $1k This Year
+Link: http://socketsite.com/archives/2020/12/average-rent-in-san-francisco-has-dropped-1000-this-year.html
+Points: 241 points
+
+Title: Introduction to Reinforcement Learning (2015)
+Link: https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver
+Points: 235 points
+
+Title: Salmon spawning in the upper Columbia River, first in 80 years
+Link: https://www.spokesman.com/stories/2020/dec/17/for-the-first-time-in-more-than-80-years-salmon-sp/
+Points: 233 points
+
+Title: Rotating Sails Help to Revive Wind-Powered Shipping
+Link: https://www.scientificamerican.com/article/rotating-sails-help-to-revive-wind-powered-shipping/
+Points: 232 points
+
+Title: Show HN: Simple-graph – a graph database in SQLite
+Link: https://github.com/dpapathanasiou/simple-graph
+Points: 232 points
+
+Title: Executable PNGs
+Link: https://djharper.dev/post/2020/12/26/executable-pngs/
+Points: 230 points
+
+Title: Ask HN: Favorite Podcast Episode of 2020?
+Link: item?id=25553818
+Points: 225 points
+
+Title: Remote Chaos Communication Congress – Streams
+Link: https://streaming.media.ccc.de/rc3/
+Points: 215 points
+
+Title: How much math you need for programming (2014)
+Link: https://lispmachine.wordpress.com/2014/12/05/how-much-math-you-need-for-programming/
+Points: 207 points
+
+Title: Lost nuclear device atop of Nanda Devi
+Link: https://www.livehistoryindia.com/cover-story/2020/09/18/nanda-devi-nuclear-device
+Points: 205 points
+
+Title: Zoomquilt 2 (2007)
+Link: http://zoomquilt2.com/
+Points: 200 points
+
+Title: Bye Bye Mongo, Hello Postgres (2018)
+Link: https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres
+Points: 195 points
+
+Title: Life Dashboard: Heads-up display for everyday life
+Link: https://github.com/davidhampgonsalves/life-dashboard
+Points: 195 points
+
+Title: Run More Stuff in Docker
+Link: https://jonathan.bergknoff.com/journal/run-more-stuff-in-docker/
+Points: 194 points
+
+Title: Noise-canceling headphones without the headphone
+Link: https://spectrum.ieee.org/tech-talk/consumer-electronics/audiovideo/active-noise-cancellation-using-ldvs
+Points: 193 points
+
+Title: Building my own HomeKit Thermostat
+Link: https://www.staycaffeinated.com/2020/12/27/building-my-own-homekit-thermostat-v1
+Points: 185 points
+
+Title: The Future of RTS
+Link: https://docs.google.com/document/d/1RIAmHaInU_tb-Xv9EMZ6SP2zLE50t91zI2ThINwCHHo/edit
+Points: 184 points
+
+Title: Apple Silicon M1 Die-Shots
+Link: https://www.techinsights.com/blog/two-new-apple-socs-two-market-events-apple-a14-and-m1
+Points: 183 points
+
+Title: Raspberry Pi PCIe Devices
+Link: https://pipci.jeffgeerling.com
+Points: 167 points
+
+Title: A first look at Ghidra’s Debugger – Game Boy Advance Edition
+Link: https://wrongbaud.github.io/posts/ghidra-debugger/
+Points: 160 points
+
+Title: The Guy I Almost Was (1998)
+Link: http://www.electricsheepcomix.com/almostguy/
+Points: 156 points
+
+Title: Stealing private documents through a bug in Google Docs
+Link: https://savebreach.com/stealing-private-documents-through-a-google-docs-bug/
+Points: 155 points
+
+Title: Show HN: CodeSwing – A CodePen-like interactive playground, built into VS Code
+Link: https://github.com/codespaces-contrib/codeswing
+Points: 153 points
+
+Title: APIs All the Way Down
+Link: https://notboring.substack.com/p/apis-all-the-way-down
+Points: 152 points
+
+Title: The Genius of RISC-V Microprocessors
+Link: https://erik-engheim.medium.com/the-genius-of-risc-v-microprocessors-b19d735abaa6
+Points: 152 points
+
+Title: Bash HTTP Monitoring Dashboard
+Link: https://raymii.org/s/software/Bash_HTTP_Monitoring_Dashboard.html
+Points: 150 points
+
+Title: Sega Dreamcast: Windows CE
+Link: https://segaretro.org/Windows_CE
+Points: 147 points
+
+Title: Learning to Play the Chaos Game
+Link: https://hardmath123.github.io/chaos-game-fractal-foliage.html
+Points: 147 points
+
+Title: HN Readers
+Link: https://blog.luke.lol/tech/hacker-news-alternatives/
+Points: 143 points
+
+Title: 90% of Waking Hours Spent Staring at Glowing Rectangles (2009)
+Link: https://www.theonion.com/report-90-of-waking-hours-spent-staring-at-glowing-re-1819570829
+Points: 140 points
+
+Title: Stadia uses a web app to bypass Apple's policy on cloud gaming apps
+Link: https://www.extremetech.com/mobile/318411-stadia-is-now-playable-on-iphone-thanks-to-googles-new-web-app
+Points: 137 points
+
+Title: Show HN: Archivy-HN – automatically save and download your upvoted HN posts
+Link: https://github.com/archivy/archivy-hn
+Points: 135 points
+
+Title: The future of electricity is local
+Link: https://caseyhandmer.wordpress.com/2020/12/27/the-future-of-electricity-is-local/
+Points: 133 points
+
+Title: Types of Dark Patterns
+Link: https://darkpatterns.org/types-of-dark-pattern.html
+Points: 133 points
+
+Title: Show HN: Stork: A customizable, WASM-powered full-text search plugin for the web
+Link: https://stork-search.net
+Points: 131 points
+
+Title: Show HN: Cygnus-X1 – A Thrust Vectoring Model Rocket Flight Computer
+Link: https://github.com/polishdude20/CygnusX1
+Points: 118 points
+
+Title: A new population of blue whales was discovered hiding in the Indian Ocean
+Link: https://www.nytimes.com/2020/12/23/science/blue-whales-indian-ocean.html
+Points: 115 points
+
+Title: The Hyperbezier Pen Tool
+Link: https://www.cmyr.net/blog/hyperbezier.html
+Points: 114 points
+
+Title: “It Turns Out” (2010)
+Link: http://jsomers.net/blog/it-turns-out
+Points: 112 points
+
+Title: 10 KB Club: With links to popular HN, Reddit, Lobsters threads for each website
+Link: https://10kbclub.com/
+Points: 110 points
+
+Title: Wordpress market share keeps growing
+Link: https://w3techs.com/technologies/history_overview/content_management/all/y
+Points: 105 points
+
+Title: A Tiny Lispy Transpiler
+Link: https://github.com/LingDong-/wax
+Points: 103 points
+
+Title: Head of Remote Work
+Link: https://theorg.com/insights/the-hottest-new-title-in-tech-head-of-remote-work
+Points: 101 points
+
+Title: Repairability
+Link: https://psankar.blogspot.com/2020/12/repairability.html
+Points: 100 points
+
