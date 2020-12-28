@@ -4,6 +4,7 @@ from pprint import pprint
 from bs4 import BeautifulSoup
 
 crawl_delay = 30
+custom_votes = 99
 hn = []
 
 
@@ -18,7 +19,7 @@ def create_custom_hn(scraped_links, scraped_subtexts):
         vote = scraped_subtexts[idx].select(".score")
         if len(vote):
             points = int(vote[0].getText().replace(" points", ""))
-            if points > 99:
+            if points > custom_votes:
                 hn.append({
                     "title": title,
                     "link": href,
